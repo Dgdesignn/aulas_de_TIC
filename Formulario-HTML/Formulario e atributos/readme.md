@@ -25,4 +25,4 @@ O atributo ``method`` indica como esses dados serão enviado. Os dados podem ser
 ### Pergunta para responder na sala de aula
 > Qual é a difenrença entre os valores do atributo **method**, ``get`` e o ``post``?
 
-Feito com ❤️ pelo PROF ENSINA
+Feito com ❤️ PROF ENSINA
